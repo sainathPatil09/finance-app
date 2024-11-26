@@ -47,7 +47,7 @@ export default function Dashboard() {
         </div>
         
 
-        <div className="md:h-[70%] h-[55%]  flex mt-4 bg-stone-100 rounded-lg ">
+        <div className="md:h-[70%] h-[75%]  flex mt-4 bg-stone-100 rounded-lg ">
           {/* <div className="w-full border border-violet-700"><IncomeExpenseChart/></div> */}
           <IncomeExpenseChart />
           {/* <div className="border w-1/3 ">recent</div> */}
